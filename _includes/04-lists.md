@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+## Things I Enjoy Doing
+- Learning & trying new tech
+- Modifying my devices 
+- Travelling
